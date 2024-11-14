@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "d2f13e07277a5c7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "36a30662cf9f8eb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55d61ac8c90d3115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d799482bc96769db",
+    "type": "split",
+    "children": [
+      {
+        "id": "037c0831a543f902",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2fec15c22764267",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e0bc97cf07bd3a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea8cf23654c867ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c302602a5a73a503",
+    "type": "split",
+    "children": [
+      {
+        "id": "e008e785208e779e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcf1126c532b28af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86e9da3ab17b7e5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebfa4b4325e6f27e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "208a752c4540c2be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "55d61ac8c90d3115",
+  "lastOpenFiles": [
+    "favicon-192x192.png",
+    "favicon-512x512.png",
+    "favicon-180x180.png",
+    "android-chrome-192x192.png",
+    "favicon-32x32.png",
+    "favicon-16x16.png",
+    "favicon.ico",
+    "apple-touch-icon.png",
+    "android-chrome-512x512.png",
+    "Home.md"
+  ]
+}
